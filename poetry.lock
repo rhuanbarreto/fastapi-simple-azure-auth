@@ -847,13 +847,13 @@ standard = ["colorama (>=0.4)", "httptools (>=0.5.0)", "python-dotenv (>=0.13)",
 
 [[package]]
 name = "web-pdb"
-version = "1.6.2"
+version = "1.6.3"
 description = "Web interface for Python's built-in PDB debugger"
 optional = false
 python-versions = ">=3.6"
 files = [
-    {file = "web-pdb-1.6.2.tar.gz", hash = "sha256:f077221439fe547cf94c0e092afe0afcb5b6c12e8f18e76840e5cf54a9137deb"},
-    {file = "web_pdb-1.6.2-py3-none-any.whl", hash = "sha256:93d7e307e0e41ea316c7f570f167a0a2e544f4a84163f0b5d55eaa7f92078af3"},
+    {file = "web-pdb-1.6.3.tar.gz", hash = "sha256:cc8169d5b0edfd6090029bc7452a2928786dbcad9dc9f228e8eb45351b88f6e9"},
+    {file = "web_pdb-1.6.3-py3-none-any.whl", hash = "sha256:9fd8dd7ff0ac3869b216454c651812194c4592ffcdc6bd2ec78fb07d50224171"},
 ]
 
 [package.dependencies]
